@@ -178,7 +178,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong>
   {% if online == "false" %}
     Participants must bring a laptop with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. If you're on a centrally managed laptop issued by the university, please check out the comments above the setup instructions below.
   {% else %}
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
@@ -441,6 +441,15 @@ to include the relevant installation instrucctions.
 These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
+
+If you're working with a KI, KTH or SU laptop, and you don't have administrative privilegues, here's what you can do:
+
+<strong>KI Windows</strong>
+<strong>KI Mac</strong>
+<strong>KTH Windows</strong> KTH Windows users can find Git for Windows and Anaconda in the Software center.
+<strong>KTH Mac</strong> KTH Mac users normally have admin priviligues and can follow the instructions below.
+<strong>SU Windows</strong>
+<strong>SU Mac</strong>
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
