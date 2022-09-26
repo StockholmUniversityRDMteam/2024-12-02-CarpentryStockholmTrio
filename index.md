@@ -13,7 +13,7 @@ humandate: "November 7-8, 2022"    # human-readable dates for the workshop (e.g.
 humantime: "9 am - 4pm CET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-11-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-11-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Thomas Lindh", "Stefan Wiens", "Glenn Haya", "Lina Andrén", "Merlijn de Smit"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Thomas Lind", "Stefan Wiens", "Glenn Haya", "Lina Andrén", "Merlijn de Smit"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Joakim Philipson", "Erik Hedman"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["researchdata@kth.se"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://pad.carpentries.org/2022-11-07-StockholmTrio # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
