@@ -266,7 +266,7 @@ Edit the text to match who can attend the workshop. For instance:
   
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to doctoral students and researchers from the Stockholm Trio universities, i. e. Karolinska institute, KTH Royal institute of technology and Stockholm university.
+    This workshop is open to doctoral students and researchers from the Stockholm Trio universities, i. e. Karolinska institutet, KTH and Stockholm University.
 </p>
 
 
