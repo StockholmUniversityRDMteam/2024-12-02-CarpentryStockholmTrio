@@ -16,12 +16,12 @@ enddate: 2023-05-10        # machine-readable end date for the workshop in YYYY-
 instructor: ["Thomas Lind", "Stefan Wiens", "Glenn Haya", "Merlijn de Smit"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Joakim Philipson", "Nazar Dino"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["opendata@su.se"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  https://pad.carpentries.org/2022-11-07-StockholmTrio # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes:  https://pad.carpentries.org/2023-05-09-StockholmTrio # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-Plotting and Coding with Python
+
 {% comment %}
 HEADER
 
@@ -31,10 +31,6 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-
-{% comment %}
-
-{% endcomment %}
 
 
 {% comment %}
@@ -274,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Sign up:</strong>
-  Sign up will open on October 7. <a href="https://www.kth.se/form/stockholm-trio-carpentries-november-2022">Please click here to sign up for the workshop.</a>
+  Sign up will open on April 25. <a href="https://www.su.se/pythonwsMay2023">Please click here to sign up for the workshop.</a>
 </p>
 
 {% comment%}
@@ -448,7 +444,7 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 <strong>KI Mac</strong>
 
-<strong>KTH Windows</strong> KTH Windows users can find Git for Windows and Anaconda in the Software center.
+<strong>KTH Windows</strong> KTH Windows users can find Anaconda in the Software center.
 
 <strong>KTH Mac</strong> KTH Mac users normally have admin priviligues and can follow the instructions below.
 
