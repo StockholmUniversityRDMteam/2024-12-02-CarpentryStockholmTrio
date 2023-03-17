@@ -4,11 +4,11 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Stockholm Trio university libraries"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Växthuset, Stockholm University Library, https://goo.gl/maps/4SLTmjYZ76PprmfF9"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Växthuset, Stockholm University Library, Universitetsvägen 14D, 114 18 Stockholm"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "se"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "59.365162"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "18.057099"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "59.363270"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "18.060410"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "May 9-10, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9 am - 4pm CET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2023-05-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -132,7 +132,7 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  <a href="https://www.hitta.se/stockholms+l%C3%A4n/stockholm/svante+arrhenius+v%C3%A4g+14/omr%C3%A5de/59.36546:18.056555">More information on the location.</a>
+  <a href="https://goo.gl/maps/4SLTmjYZ76PprmfF9">More information on the location.</a>
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
