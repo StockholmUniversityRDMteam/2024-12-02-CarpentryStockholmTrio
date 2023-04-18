@@ -437,9 +437,9 @@ to include the relevant installation instrucctions.
 {% comment %}
 These are the installation instructions for the tools used
 during the workshop.
-{% endcomment %}
+-- Insert %endcomment% here 
 
-If you're working with a KI, KTH or SU laptop, and you don't have administrative privilegues, here's what you can do:
+If you're working with a KI, KTH or SU laptop, and you don't have administrative privileges, here's what you can do:
 
 <strong>KI Windows</strong>
 
@@ -447,11 +447,13 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 <strong>KTH Windows</strong> KTH Windows users can find Anaconda in the Software center.
 
-<strong>KTH Mac</strong> KTH Mac users normally have admin priviligues and can follow the instructions below.
+<strong>KTH Mac</strong> KTH Mac users normally have admin priviliges and can follow the instructions below.
 
 <strong>SU Windows</strong>
 
 <strong>SU Mac</strong>
+
+{% endcomment %}
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
