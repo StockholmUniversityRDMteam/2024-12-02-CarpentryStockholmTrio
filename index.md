@@ -260,7 +260,7 @@ Edit the text to match who can attend the workshop. For instance:
   for more information
 {% endcomment %}
   
-<p id="who-can-attend">f
+<p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is open to doctoral students and researchers from the Stockholm Trio universities, i. e. Karolinska institutet, KTH Royal Institute of Technology and Stockholm University.
 </p>
@@ -437,7 +437,6 @@ to include the relevant installation instrucctions.
 {% comment %}
 These are the installation instructions for the tools used
 during the workshop.
--- Insert %endcomment% here 
 
 If you're working with a KI, KTH or SU laptop, and you don't have administrative privileges, here's what you can do:
 
@@ -445,14 +444,19 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 <strong>KI Mac</strong>
 
+{% endcomment %}
+
+Of the below setup instructions for this workshop you will essentially only need to care for those regarding Python, 
+for which we will use Jupyter Lab / Jupyter Notebook. 
+
 <strong>KTH Windows</strong> KTH Windows users can find Anaconda in the Software center.
 
 <strong>KTH Mac</strong> KTH Mac users normally have admin priviliges and can follow the instructions below.
 
+{% comment %}
 <strong>SU Windows</strong>
 
 <strong>SU Mac</strong>
-
 {% endcomment %}
 
 {% if site.carpentry == "swc" %}
