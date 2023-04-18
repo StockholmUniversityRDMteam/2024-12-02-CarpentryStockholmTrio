@@ -260,7 +260,7 @@ Edit the text to match who can attend the workshop. For instance:
   for more information
 {% endcomment %}
   
-<p id="who-can-attend">
+<p id="who-can-attend">f
     <strong>Who can attend?:</strong>
     This workshop is open to doctoral students and researchers from the Stockholm Trio universities, i. e. Karolinska institutet, KTH Royal Institute of Technology and Stockholm University.
 </p>
@@ -270,7 +270,8 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Sign up:</strong>
-  Sign up will open on April 25. <a href="https://www.su.se/pythonwsMay2023">Please click here to sign up for the workshop.</a>
+  Please note that the number of participants is limited to 30, on a first come first served base! Sign up will open on April 25 and remain open until May 8 or until seats are filled! <a href="https://survey.su.se/Survey/49806">Please click here to sign up for the workshop.</a>
+  
 </p>
 
 {% comment%}
