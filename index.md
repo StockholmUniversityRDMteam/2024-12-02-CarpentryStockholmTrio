@@ -450,7 +450,7 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 {% endcomment %}
 
-Of the below setup instructions for this workshop you will essentially only need to care for those regarding Python, 
+Of the below setup instructions for this workshop you will essentially only need to care about those regarding Python, 
 for which we will use Jupyter Lab / Jupyter Notebook. 
 
 <strong>KTH Windows</strong> KTH Windows users can find Anaconda in the Software center.
