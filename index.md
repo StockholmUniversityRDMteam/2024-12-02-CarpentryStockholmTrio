@@ -444,6 +444,10 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 <strong>KI Mac</strong>
 
+<strong>SU Windows</strong>
+
+<strong>SU Mac</strong>
+
 {% endcomment %}
 
 Of the below setup instructions for this workshop you will essentially only need to care for those regarding Python, 
@@ -453,11 +457,7 @@ for which we will use Jupyter Lab / Jupyter Notebook.
 
 <strong>KTH Mac</strong> KTH Mac users normally have admin priviliges and can follow the instructions below.
 
-{% comment %}
-<strong>SU Windows</strong>
 
-<strong>SU Mac</strong>
-{% endcomment %}
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
