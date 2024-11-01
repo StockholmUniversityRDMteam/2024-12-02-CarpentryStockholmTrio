@@ -270,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Sign up:</strong>
-  Please note that the number of participants is limited to 30, on a first come first served base! Sign up will open on April 25 and remain open until May 8 or until seats are filled! <a href="https://survey.su.se/Survey/49806">Please click here to sign up for the workshop.</a>
+  Please note that the number of participants is limited to 30, on a first come first served base! Sign up will open on November 11 and remain open until December 2 or until seats are filled! <a href="https://survey.su.se/Survey/placeholder">Please click here to sign up for the workshop.</a>
   
 </p>
 
@@ -308,7 +308,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="{{ [page.collaborative_notes](https://pad.carpentries.org/20211108SU-intern) }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
@@ -450,10 +450,9 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 {% endcomment %}
 
-Of the below setup instructions for this workshop you will essentially only need to care about those regarding Python, 
-for which we will use Jupyter Lab / Jupyter Notebook. 
+Please see below for setup instructions for this workshop. 
 
-<strong>KTH Windows</strong> KTH Windows users can find Anaconda in the Software center.
+<strong>KTH Windows</strong>
 
 <strong>KTH Mac</strong> KTH Mac users normally have admin priviliges and can follow the instructions below.
 
