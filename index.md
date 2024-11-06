@@ -270,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Sign up:</strong>
-  Please note that the number of participants is limited to 30, on a first come first served base! Sign up will open on November 11 and remain open until December 2 or until seats are filled! <a href="https://su.drive.sunet.se/index.php/apps/forms/s/aAXZFzStepC2zGAz3PmPQiTA">Please click here to sign up for the workshop.</a>
+  Please note that the number of participants is limited to 30, on a first come first served base! Sign up will open on November 11 and remain open until December 2 or until seats are filled! <a href="https://su.drive.sunet.se/index.php/apps/forms/s/aAXZFzStepC2zGAz3PmPQiTA"><strong>Please click here to sign up for the workshop.</strong></a>
   
 </p>
 
