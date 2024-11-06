@@ -402,13 +402,13 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
+  To participate in this
   {% if site.carpentry == "swc" %}
   Software Carpentry
   {% elsif site.carpentry == "dc" %}
   Data Carpentry
   {% elsif site.carpentry == "lc" %}
-  Library Carpentry
+  Carpentry
   {% endif %}
   workshop,
   you will need access to software as described below.
@@ -448,13 +448,15 @@ If you're working with a KI, KTH or SU laptop, and you don't have administrative
 
 <strong>SU Mac</strong>
 
+<strong>KTH Windows</strong>
+
+<strong>KTH Mac</strong> KTH Mac users normally have admin priviliges and can follow the instructions below.
+
 {% endcomment %}
 
 Please see below for setup instructions for this workshop. 
 
-<strong>KTH Windows</strong>
 
-<strong>KTH Mac</strong> KTH Mac users normally have admin priviliges and can follow the instructions below.
 
 
 
