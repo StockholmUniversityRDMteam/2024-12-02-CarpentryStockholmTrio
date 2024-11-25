@@ -270,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Workshop postponed!</strong>
-Please note that this workshop will only take place via Zoom at a later date in February 2025 , provided we get a minimum number of participants that sign up. (Zoom link will be provided closer to the workshop on sign up.) A web form for giving feedback on desired date for the workshop will soon appear<strong>here.</strong></a>
+Please note that this workshop will only take place via Zoom at a later date in February 2025 , provided we get a minimum number of participants that sign up. (Zoom link will be provided closer to the workshop on sign up.) A web form for giving feedback on desired date for the workshop will soon appear <strong>here.</strong>.
   
 </p>
 
